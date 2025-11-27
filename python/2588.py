@@ -1,0 +1,13 @@
+a=int(input())
+b=input()
+c=int(b[2])
+d=int(b[1])
+e=int(b[0])
+f=a*c
+g=a*d
+h=a*e
+i=f+10*g+100*h
+print(f)
+print(g)
+print(h)
+print(i)
